@@ -24,6 +24,7 @@ MORE_STORIES_THAN_EVER_BEFORE
 ![Wireframe](assets/Wirframes_Roku.pdf "ISLAND Wireframe")
 
 [Prototype](https://xd.adobe.com/view/868329dc-f1af-4d98-a790-77f4472d8ef1-d3d0/)
+[Mobile Version](https://xd.adobe.com/view/c022c956-53e3-4ccf-90ab-0b4dac5ec036-9571/)
 
 ## License
 
